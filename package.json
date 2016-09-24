@@ -1,0 +1,30 @@
+{
+  "name": "tuputech_test",
+  "version": "1.0.0",
+  "description": "图普科技测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stableShip/tuputech_test.git"
+  },
+  "keywords": [
+    "tuputech"
+  ],
+  "author": "JIE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stableShip/tuputech_test/issues"
+  },
+  "homepage": "https://github.com/stableShip/tuputech_test",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "co": "^4.6.0",
+    "co-retry": "^1.0.5",
+    "log4js": "^0.6.38",
+    "request": "^2.75.0",
+    "toml": "^2.3.0"
+  }
+}
