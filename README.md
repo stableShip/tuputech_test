@@ -1,4 +1,6 @@
 # tuputech_test
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/stableShip/tuputech_test.svg)](https://greenkeeper.io/)
 图普科技测试
 
 ## You are required to write codes using Node.js to go through the TO-DO List!
